@@ -1,0 +1,253 @@
+body
+{
+	background-color: rgb(80, 80, 80);
+	margin: 0;
+	padding: 0;
+	margin-top: 1%;
+	margin-left: 12%;
+	margin-right: 12%;
+}
+
+.top
+{
+	text-align: center;
+	width: 1421px;
+	height: 137px;
+	border-radius: 8px;
+	box-shadow: 13px 10px 10px #000;
+	background-color: rgb(144, 144, 144); /*sa couleur*/
+}
+
+.top_right
+{
+	float: right;
+}
+
+#day_of_the_42
+{
+	width: auto;
+	height: 110px;
+	margin-left: 1%;
+	margin-bottom: 3%;
+	/*float : left;*/
+/*	border-top-left-radius: 20px;
+	border-bottom-left-radius: 20px;*/
+
+}
+
+#loupe
+{
+	width: auto;
+	height: 137px;
+	margin-left: 50%;
+}
+
+#reload
+{
+	width: 20px;
+	height: 20px;
+	margin-top: 40%
+}
+
+#close
+{
+	width: 20px;
+	height: 20px;
+	margin-top: 330%;
+}
+
+.mid
+{
+	width: 1421px;
+	height: 700px;
+}
+
+.mid1
+{
+	float: left;
+	width: 141px;
+	height: 425px;
+	border-radius: 8px;
+	box-shadow: 13px 10px 10px #000;
+	background-color: rgb(144, 144, 144);
+	margin-top: 20px;
+	margin-left: 30px;
+}
+
+#arrow
+{
+	width: 65px;
+	height: 65px;
+	margin-left: 25%;
+	margin-top: 10%;
+}
+
+#main
+{
+	width: 65px;
+	height: 65px;
+	margin-left: 25%;
+	margin-top: 10%;
+}
+
+#oeil
+{
+	border: 5px solid red;
+	border-radius: 4px;
+	width: 65px;
+	height: 65px;
+	margin-left: 25%;
+	margin-top: 10%;
+}
+
+#outil
+{
+	width: 65px;
+	height: 65px;
+	margin-left: 25%;
+	margin-top: 10%;
+}
+
+#chat
+{
+	width: 65px;
+	height: 65px;
+	margin-left: 25%;
+	margin-top: 10%;
+}
+
+.mid2
+{
+	float: left;
+	margin-top: 20px;
+	margin-left: 30px;
+	width: 1020px;
+	height: 580px;
+	border-radius: 8px;
+	box-shadow: 13px 10px 10px #000;
+	background-color: rgb(144, 144, 144);
+}
+
+#cluster
+{
+	width: 1000px;
+	height: 560px;
+	margin-left: 1%;
+	margin-top: 1%;
+}
+
+.mid3
+{
+	float: left;
+	width: 141px;
+	height: 425px;
+	border-radius: 8px;
+	box-shadow: 13px 10px 10px #000;
+	background-color: rgb(144, 144, 144);
+	margin-top: 20px;
+	margin-left: 30px;
+}
+
+#book
+{
+	width: 65px;
+	height: 90px;
+	margin-left: 25%;
+	margin-top: 10%;
+}
+
+#towel
+{
+	width: 65px;
+	height: 40px;
+	margin-left: 25%;
+	margin-top: 10%;
+}
+
+#brick
+{
+	width: 120px;
+	height: 72px;
+	background-image: url("resources/brick.jpg");
+	margin-left: 7%;
+	margin-top: 10%;
+}
+
+.bot
+{
+	position: absolute;
+	width: 520px;
+	height: 170px;
+	border-radius: 8px;
+	box-shadow: 13px 10px 10px #000;
+	margin-left: -50px;
+	margin-top: -170px;
+	background-color: rgb(140, 253, 142);
+}
+
+.text
+{
+	font-family: Arial, Helvetica, sans-serif;
+	padding-top: 3px;
+	padding-left: 5px;
+}
+
+#button
+{
+	padding-bottom: 20px;
+	margin-right: 0px;
+	width: 85px;
+	height: 10px;
+	/*background-color: rgb(250, 250, 250);*/
+}
+
+#TB_repondre
+{
+	resize: none;
+	width: 300px;
+	margin-top: 5px;
+}
+
+#t1
+{
+	font-family: "Times New Roman" serif;
+	font-size: 30px;
+}
+
+#ombre
+{
+	text-shadow: 1px 5px 10px red;
+}
+
+#zone_chaise
+{
+	position: absolute;
+	width: 120px;
+	height: 180px;
+	margin-left: 540px;
+	margin-top: 360px;
+}
+
+#zone_chaise:hover
+{
+	position: absolute;
+	border: 2px solid grey;
+}
+
+#zone_ordi
+{
+	position: absolute;
+	width: 180px;
+	height: 135px;
+	margin-left: 1000px;
+	margin-top: 345px;
+}
+
+#zone_ordi:hover
+{
+	position: absolute;
+	border: 2px solid grey;
+}
+
+
+

@@ -1,0 +1,59 @@
+body
+	{
+		background-image:url(http://media3.cadeau-maestro.com/3658-20250-thickbox_default/mug-tableau-periodique-des-elements.jpg);
+		background-repeat: no-repeat;
+		text-align: center;
+	}
+	h1
+	{
+		text-align: center;
+	}
+	.top 
+	{
+		height:10%;
+	}
+	.case
+	{
+		border:1px solid black;
+		background-color: pink;
+	}
+	.case:hover
+	{
+		border:3px solid black;
+		background-color: white;
+	}
+	.bot_case
+	{
+		text-align: right;
+		font-size: 1.1vmin;
+	}
+	.body_case
+	{
+		text-align: center;
+		font-size: 3vmin;
+	}
+	.top_case
+	{
+		text-align: left;
+		font-size: 1.1vmin;
+	}
+	.void-case
+	{
+		
+	}
+	.laac
+	{
+		text-align: center;
+		font-size: 1.1vmin;
+	}
+	table
+	{
+		border-collapse: none;
+		margin: auto;
+	}
+	#img
+	{
+		width:150px;
+		height:150px;
+
+	}
